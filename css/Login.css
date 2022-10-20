@@ -1,0 +1,27 @@
+
+
+.Inicio-General{
+ display: flex;
+ justify-content: center;
+  
+}
+
+.InicioSesion h2{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+    text-align: center;
+}
+
+.InicioSesion .Correo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 1rem;
+}
+.InicioSesion .Password{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 1rem;
+}
